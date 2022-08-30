@@ -16,7 +16,7 @@ First of all, we are using our **own Garden technology to 🐶 dogfood and creat
 
 💪 🌴 hBABL is a super garden token that includes **10 + 1 different mechanics** inspired by the very best of DeFi and synthesized together to provide value to BABL holders and Babylon users alike.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 You can see the TLDR of the Mechanics here and a full explanation of each of these mechanics will follow in separate posts👇
 

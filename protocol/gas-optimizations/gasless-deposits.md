@@ -1,6 +1,6 @@
 # 🪄 Gasless Deposits
 
-![Gasless Deposits](<../../.gitbook/assets/image (12).png>)
+![Gasless Deposits](<../../.gitbook/assets/image (17).png>)
 
 You can see the original announcement on medium [here](https://medium.com/babylon-finance/introducing-gasless-deposits-51e2d31ccd3f).
 

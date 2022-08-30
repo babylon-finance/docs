@@ -10,7 +10,7 @@ description: >-
 
 So far, Babylon has developed all these adapters in-house. You can see the [whole list here.](../protocol/integrations.md)
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (18).png>)
 
 Starting today, anyone can develop an adapter, test it on a private garden and then submit it to be verified and audited by Babylon governance.
 
@@ -26,7 +26,7 @@ Babylon has 1-N gardens or investment clubs.
 
 Every Garden has 0-N active strategies at any single moment.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (9).png>)
 
 Every strategy has 1-N DeFi operations it executes to start and exit a strategy.
 

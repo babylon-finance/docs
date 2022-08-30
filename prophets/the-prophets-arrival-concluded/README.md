@@ -8,7 +8,7 @@ description: The prophets are coming to Babylon on Nov 15th 2021
 Original Announcement on Medium
 {% endembed %}
 
-![The Arrival](<../../.gitbook/assets/image (20).png>)
+![The Arrival](<../../.gitbook/assets/image (12).png>)
 
 ## 🔮 The Prophets are coming… <a href="#d2dc" id="d2dc"></a>
 

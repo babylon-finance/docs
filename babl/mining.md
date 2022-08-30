@@ -10,7 +10,7 @@ BABL Mining Program was the first governance proposal.  It was approved unanimou
 
 You can read the initial Medium announcement [here](https://medium.com/babylon-finance/babl-mining-program-4829c313268d).
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (15).png>)
 
 ## TLDR
 

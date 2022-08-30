@@ -1,6 +1,6 @@
 # Babylon Governor
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 [Babylon Governor](https://medium.com/babylon-finance/introducing-babylon-governor-6d9e45d7ca3c) enables anyone who holds **$BABL**, Babylon’s governance token, to submit proposals and **vote on protocol-level decisions, beginning with treasury management.**
 

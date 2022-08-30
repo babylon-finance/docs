@@ -20,7 +20,7 @@ Babylon integrates with a number of different DeFi protocols to empower members 
 
 We are witnessing the end of a 30-year secular downtrend in interest rates. As a consequence, bonds are no longer a viable hedge for portfolios. At the same time, equities are at an all-time high in terms of P/E ratios. Central banks are increasing the money supply faster than ever. Inflation looms on the horizon.&#x20;
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (19).png>)
 
 We believe crypto assets are poised to become the best-performing asset class over the next two decades.
 
